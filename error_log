@@ -1,0 +1,5 @@
+[15-Jan-2015 06:33:58 Etc/GMT] PHP Warning:  print_r() expects at most 2 parameters, 4 given in /home/creaades/public_html/demo/commodity/email.php on line 33
+[16-Jan-2015 08:03:02 Etc/GMT] PHP Parse error:  syntax error, unexpected 'width' (T_STRING) in /home/creaades/public_html/demo/commodity/email.php on line 28
+[16-Jan-2015 08:04:40 Etc/GMT] PHP Parse error:  syntax error, unexpected 'height' (T_STRING) in /home/creaades/public_html/demo/commodity/email.php on line 28
+[16-Jan-2015 09:45:27 Etc/GMT] PHP Parse error:  syntax error, unexpected 'background' (T_STRING) in /home/creaades/public_html/demo/commodity/email.php on line 28
+[16-Jan-2015 09:46:32 Etc/GMT] PHP Parse error:  syntax error, unexpected 'border' (T_STRING) in /home/creaades/public_html/demo/commodity/email.php on line 28
